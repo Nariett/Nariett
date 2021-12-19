@@ -1,6 +1,5 @@
-<p style="text-align:center;"><img width="50%" height="auto" src="https://img.icons8.com/fluency/10000/fox.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nariet</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nariet</h1>
 <h3 align="center">I'm second year students</h3>
 
 
