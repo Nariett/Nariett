@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nariet</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nariett</h1>
 <h3 align="center">I'm second year students</h3>
 
 
@@ -23,7 +23,10 @@
     <a target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-code-2019.png" alt="express" width="40" height="48"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username) 
+![](https://komarev.com/ghpvc/?username=your-github-nariett)
+
+
 <br/>
 
 <p align="center">
@@ -45,15 +48,16 @@
 <br/>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nariett&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
-
+  
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.instagram.com/mini_biolog/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://t.me/mini_biolog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
 
+
 </p>
+
 
