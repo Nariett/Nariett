@@ -26,19 +26,21 @@
 [![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username) 
 ![](https://komarev.com/ghpvc/?username=your-github-nariett)
 
-
 <br/>
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nariett&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+<h1 align="left"
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
+</h1 >
+<p align="left">
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nariett&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a  href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nariett&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
