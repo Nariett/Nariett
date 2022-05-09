@@ -59,6 +59,8 @@
 
 <a href = "https://www.instagram.com/mini_biolog/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://t.me/mini_biolog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
+<a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png"
+alt="jenkins" width="50" height="50"/> </a> 
 
 
 </p>
