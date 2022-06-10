@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15x">, I'm Nariett</h1>
+<h1 align="center">Hello, I'm Nariett</h1>
 <h3 align="center">I'm second year students</h3>
 
 
