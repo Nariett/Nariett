@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Nariett</h1>
-<h3 align="center">I'm second year students</h3>
+<h3 align="center">I'm third year students</h3>
 
 
 ## 🙋‍♂️ About Me
