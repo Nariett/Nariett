@@ -16,7 +16,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href = "https://www.instagram.com/mini_biolog/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a target="_blank"> <img src="https://img.icons8.com/color/452/c-sharp-logo.png"alt="jenkins" width="48" height="48"/> </a>
     <a target="_blank"> <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"alt="jenkins" width="48" height="48"/> </a>
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
