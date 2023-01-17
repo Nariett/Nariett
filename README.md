@@ -42,7 +42,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 </h1>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&show_icons=true&include_all_commits=true&theme=black-ice&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
