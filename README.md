@@ -42,12 +42,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 </h1>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&show_icons=true&theme=react&bg_color=0D1117"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a title="Sasha Samoilov's GitHub Stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=0D1117&theme=react" /></a>
   <br/>
 <br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="MyGraph" src="https://activity-graph.herokuapp.com/graph?username=Nariett" /></a>
 <br/>
 <br/>
 
