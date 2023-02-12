@@ -15,7 +15,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"alt="jenkins" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/CSLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"alt="jenkins" width="48" height="48"/> </a>
     <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="jenkins" width="48" height="48"/> </a>
     <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="jenkins" width="48" height="48"/> </a>
     <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="jenkins" width="48" height="48"/> </a>
@@ -59,5 +59,3 @@
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png"
 alt="jenkins" width="50" height="50"/> </a> 
 </p>
-
-
