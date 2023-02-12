@@ -16,13 +16,13 @@
 
 <p align="left"> 
     <a target="_blank" href = "https://github.com/Nariett/CSLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"alt="jenkins" width="48" height="48"/> </a>
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="jenkins" width="48" height="48"/> </a>
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="jenkins" width="48" height="48"/> </a>
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="jenkins" width="48" height="48"/> </a>
-    <a target="_blank"> <img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="jenkins" width="48" height="48"/> </a> 
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="express" width="48" height="48"/> </a>  
-    <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="jenkins" width="48" height="48"/> </a> 
-    <a target="_blank"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="jenkins" width="48" height="48"/> </a> 
+    <a target="_blank" href = "https://github.com/Nariett/CppLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="jenkins" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/JavaLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="jenkins" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/PythonLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="jenkins" width="48" height="48"/> </a>
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"> <img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="jenkins" width="48" height="48"/> </a> 
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="express" width="48" height="48"/> </a>  
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="jenkins" width="48" height="48"/> </a> 
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="jenkins" width="48" height="48"/> </a> 
     
     
 </p>
