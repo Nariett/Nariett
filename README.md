@@ -46,7 +46,7 @@
   <a title="Sasha Samoilov's GitHub Stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react" /></a>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
 <br/>
 
 
