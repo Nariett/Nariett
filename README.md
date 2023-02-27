@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Alexander</h1>
-<h3 align="center">I'm third year students</h3>
+<h3 align="center">I'm third year student</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -44,10 +44,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 </h1>
   <a title="Sasha Samoilov's GitHub Stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react" /></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+
 <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nariett's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Nariett&bg_color=060A0CD0&theme=react-dark&point=FFFFFF&hide_border=true&icon_color=F8D866" /></a>
 
 
 ## Connect with me:
