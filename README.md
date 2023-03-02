@@ -23,10 +23,9 @@
     <a target="_blank" href = "https://github.com/Nariett/PythonLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="Python" width="48" height="48"/> </a>
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"> <img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="Visual Studio Community" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48"/> </a>  
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Git" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="jenkins" width="48" height="48"/> </a> 
-    
-    
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Git" width="48" height="48"/> </a> 
+    <a target="_blank"  href = "https://www.docker.com"> <img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="48" height="48"/> </a>
 </p>
 
 [![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username) 
