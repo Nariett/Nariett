@@ -23,7 +23,7 @@
     <a target="_blank" href = "https://github.com/Nariett/PythonLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="Python" width="48" height="48"/> </a>
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"> <img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="Visual Studio Community" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48"/> </a>  
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="jenkins" width="48" height="48"/> </a> 
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="IntelliJ IDEA" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Git"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Git" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://www.docker.com"> <img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="48" height="48"/> </a>
 </p>
@@ -33,8 +33,8 @@
 <br/>
 
 <p align="left">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Сhart not available" src="https://github-readme-streak-stats.herokuapp.com/?user=Nariett&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a title="Sasha Samoilov's GitHub Stats" href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img  alt="Сhart not available" src="https://github-readme-streak-stats.herokuapp.com/?user=Nariett&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -43,15 +43,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
 </h1>
   <a title="Sasha Samoilov's GitHub Stats">
-	<img alt="Сhart not available" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Сhart not available" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
+	<img alt="Сhart not available" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react" /><a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Сhart not available" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nariett&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
 <br/>
 
 <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Сhart not available" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Nariett&bg_color=060A0CD0&theme=react-dark&point=FFFFFF&hide_border=true&icon_color=F8D866" /></a>
+  <a title="Sasha Samoilov's GitHub Stats" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Сhart not available" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Nariett&bg_color=060A0CD0&theme=react-dark&point=FFFFFF&hide_border=true&icon_color=F8D866" /></a>
 
 
-## Connect with me:
+## 🤝 Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/mini_biolog/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 <a href = "https://t.me/mini_biolog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
