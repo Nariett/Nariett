@@ -38,6 +38,7 @@
     </a>
 </p>
 
+
 <h1 align="left"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
@@ -48,12 +49,13 @@
 <br/>
 
 <br/>
-  <a title="Sasha Samoilov's GitHub Stats" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Сhart not available" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Nariett&bg_color=060A0CD0&theme=react-dark&point=FFFFFF&hide_border=true&icon_color=F8D866" /></a>
-
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nariett&bg_color=060A0CD0&theme=react&area=true&hide_border=true#gh-light-mode-only" width="94%">
+  </a>
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href = "https://www.instagram.com/mini_biolog/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+<a href = "https://www.instagram.com/0p.00ab/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 <a href = "https://t.me/mini_biolog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png"
 alt="Discord" width="50" height="50"/> </a> 
