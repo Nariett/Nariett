@@ -50,7 +50,7 @@
 
 <br/>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nariett&bg_color=060A0CD0&theme=react&area=true&hide_border=true#gh-light-mode-only" width="94%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nariett&bg_color=060A0CD0&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
   </a>
 
 ## 🤝 Connect with me:
