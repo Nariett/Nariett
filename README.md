@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning **C#**
 
 - 👯 **At the moment I want to finish college and get a job**
 
@@ -32,11 +32,11 @@
 ![](https://komarev.com/ghpvc/?username=your-github-nariett)
 <br/>
 
-<p align="left">
+<!--<p align="left">
     <a title="Sasha Samoilov's GitHub Stats" href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img  alt="Сhart not available" src="https://github-readme-streak-stats.herokuapp.com/?user=Nariett&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p>-->
 
 
 <h1 align="left"
