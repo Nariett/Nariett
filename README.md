@@ -8,7 +8,7 @@
 
 - 👯 **At the moment I want to finish college and get a job**
 
-- 📫 How to reach me **Samsiki50@gmail.com**
+- 📫 How to reach me **S4moilovAlexander@gmail.com**
 
 - ⚡ Fun fact **I play games and i'm very funny**
 
