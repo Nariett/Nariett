@@ -21,9 +21,9 @@
     <a target="_blank" href = "https://github.com/Nariett/CppLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="C++" width="48" height="48"/> </a>
     <a target="_blank" href = "https://github.com/Nariett/JavaLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="Java" width="48" height="48"/> </a>
     <a target="_blank" href = "https://github.com/Nariett/PythonLabs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="Python" width="48" height="48"/> </a>
-    <a target="_blank" href = "https://github.com/Nariett/JavaScript"> <img src="https://cdn2.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"alt="C#" width="48" height="48"/> </a>
-    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn2.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png"alt="C#" width="48" height="48"/> </a>
-    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn2.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"alt="C#" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/JavaScript"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"alt="JavaScript" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png"alt="HTML" width="48" height="48"/> </a>
+    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"alt="CSS" width="48" height="48"/> </a>
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"> <img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="Visual Studio Community" width="48" height="48"/> </a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48"/> </a>  
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"> <img src="https://img.icons8.com/color/512/intellij-idea.png"alt="IntelliJ IDEA" width="48" height="48"/> </a> 
