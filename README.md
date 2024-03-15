@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I play games and i'm very funny**
 
-- 🏥 Now I am looking for an internship in a company
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
