@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **S4moilovAlexander@gmail.com**
 
-- ⚡ Fun fact **I play games and i'm very funny**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -33,13 +31,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-nariett)
 <br/>
 
-<!--<p align="left">
-    <a title="Sasha Samoilov's GitHub Stats" href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img  alt="Сhart not available" src="https://github-readme-streak-stats.herokuapp.com/?user=Nariett&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>-->
-
-
 <h1 align="left"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
@@ -56,7 +47,6 @@
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href = "https://www.instagram.com/0p.00ab/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 <a href = "https://t.me/darknessapparitionspotter"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png"
 alt="Discord" width="50" height="50"/> </a> 
