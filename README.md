@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Alexander</h1>
-<h3 align="center">I'm in my fourth year</h3>
+<h3 align="center">.Net Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -8,7 +8,7 @@
 
 - 👯 **At the moment I want to finish college and get a job**
 
-- 📫 How to reach me **S4moilovAlexander@gmail.com**
+- 📫 How to reach me **s4moilovAlexander@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -50,4 +50,5 @@
 <a href = "https://t.me/darknessapparitionspotter"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png"
 alt="Discord" width="50" height="50"/> </a> 
+<a href = "https://www.linkedin.com/in/s4moilov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="50">
 </p>
