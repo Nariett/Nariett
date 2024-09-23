@@ -1,14 +1,13 @@
 <h1 align="center">Hello, I'm Alexander</h1>
 <h3 align="center">.Net Developer</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **C#**
+-   🌱 I’m currently learning **C#**
 
-- 👯 **At the moment I want to finish college and get a job**
+-   👯 **I am currently studying at the institute and looking for a job**
 
-- 📫 How to reach me **s4moilovAlexander@gmail.com**
+-   📫 How to reach me **s4moilovAlexander@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -27,13 +26,14 @@
     <a target="_blank"  href = "https://www.docker.com"><img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="48" height="48"/></a>
 </p>
 
-[![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username)
 ![](https://komarev.com/ghpvc/?username=your-github-nariett)
 <br/>
 
 <h1 align="left"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
+
 </h1>
   <a title="Sasha Samoilov's GitHub Stats">
 	<img alt="Сhart not available" src="https://github-readme-stats.vercel.app/api?username=Nariett&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&bg_color=060A0CD0&theme=react"/><a>
@@ -46,6 +46,7 @@
   </a>
 
 ## 🤝 Connect with me:
+
 <p align="left">
 <a href = "https://t.me/darknessapparitionspotter"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" width="50" height="50"/></a>
