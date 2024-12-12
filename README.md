@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Alexander</h1>
-<h3 align="center">.Net Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ## 🙋‍♂️ About Me
 
--   🌱 I’m currently learning **C#**
+-   🌱 I’m currently learning **Golang**
 
 -   👯 **I am currently studying at the institute and looking for a job**
 
@@ -30,9 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-nariett)
 <br/>
 
-<h1 align="left"
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4400&center=true&width=200&height=25&lines=My+GitHub+Stats)](https://git.io/typing-svg)
+## 📊 My GitHub Stats:
 
 </h1>
   <a title="Sasha Samoilov's GitHub Stats">
