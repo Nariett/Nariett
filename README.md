@@ -5,25 +5,25 @@
 
 -   🌱 I’m currently learning **Golang**
 
--   👯 **I am currently studying at the institute and looking for a job**
+-   🏢 I work at betera
 
 -   📫 How to reach me **s4moilovAlexander@gmail.com**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a target="_blank" href = "https://github.com/Nariett/CSLabs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"alt="C#" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/CppLabs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"alt="C++" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/JavaLabs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"alt="Java" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/PythonLabs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="Python" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/JavaScript"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"alt="JavaScript" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png"alt="HTML" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"alt="CSS" width="48" height="48"/></a>
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"><img src="https://img.icons8.com/fluency/512/visual-studio.png" alt="Visual Studio Community" width="48" height="48"/></a> 
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="48" height="48"/></a>  
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/IntelliJ_IDEA"><img src="https://img.icons8.com/color/512/intellij-idea.png"alt="IntelliJ IDEA" width="48" height="48"/></a> 
-    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="Git" width="48" height="48"/></a> 
-    <a target="_blank"  href = "https://www.docker.com"><img src="https://img.icons8.com/color/256/docker.png" alt="Docker" width="48" height="48"/></a>
+    <a target="_blank" href = "https://go.dev/"><img src="https://icon.icepanel.io/Technology/svg/Go.svg"alt="C#" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/CSLabs"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"alt="C#" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/CppLabs"><img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg"alt="C++" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/JavaScript"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"alt="JavaScript" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg"alt="HTML" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg"alt="CSS" width="48" height="48"/></a>
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"><img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio Community" width="48" height="48"/></a> 
+    <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="Visual Studio Code" width="48" height="48"/></a>  
+    <a target="_blank"  href = "https://www.jetbrains.com/idea/"><img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg"alt="IntelliJ IDEA" width="48" height="48"/></a> 
+    <a target="_blank"  href = "https://www.jetbrains.com/go/"><img src="https://icon.icepanel.io/Technology/svg/GoLand.svg" alt="GoLand" width="48" height="48"/></a> 
+    <a target="_blank"  href = "https://git-scm.com/"><img src="https://icon.icepanel.io/Technology/svg/Git.svg"alt="Git" width="48" height="48"/></a> 
+    <a target="_blank"  href = "https://www.docker.com"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="48" height="48"/></a>
 </p>
 
 [![codewars](https://www.codewars.com/users/Samsik/badges/micro)](https://www.codewars.com/users/username)
