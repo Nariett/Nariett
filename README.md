@@ -13,11 +13,12 @@
 
 <p align="left"> 
     <a target="_blank" href = "https://go.dev/"><img src="https://icon.icepanel.io/Technology/svg/Go.svg"alt="C#" width="48" height="48"/></a>
-    <a target="_blank" href = "https://github.com/Nariett/CSLabs"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"alt="C#" width="48" height="48"/></a>
+    <a target="_blank" href = "https://github.com/Nariett/CSLabs"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"alt="Golang" width="48" height="48"/></a>
     <a target="_blank" href = "https://github.com/Nariett/CppLabs"><img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg"alt="C++" width="48" height="48"/></a>
     <a target="_blank" href = "https://github.com/Nariett/JavaScript"><img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"alt="JavaScript" width="48" height="48"/></a>
     <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg"alt="HTML" width="48" height="48"/></a>
     <a target="_blank" href = "https://github.com/Nariett/Software-tools-for-creating-Internet-applications"> <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg"alt="CSS" width="48" height="48"/></a>
+    <a target="_blank" href = "https://www.postgresql.org/"> <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"alt="PostgresSQL" width="48" height="48"/></a>
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Microsoft_Visual_Studio"><img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio Community" width="48" height="48"/></a> 
     <a target="_blank"  href = "https://ru.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="Visual Studio Code" width="48" height="48"/></a>  
     <a target="_blank"  href = "https://www.jetbrains.com/idea/"><img src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg"alt="IntelliJ IDEA" width="48" height="48"/></a> 
@@ -48,5 +49,5 @@
 <p align="left">
 <a href = "https://t.me/darknessapparitionspotter"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"/></a>
 <a href = "https://discordapp.com/users/564182094826176550/"><img src="https://img.icons8.com/color/344/discord-new-logo.png" alt="Discord" width="50" height="50"/></a>
-<a href = "https://www.linkedin.com/in/s4moilov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="50"/></a>
+<a href = "https://www.linkedin.com/in/s4moilov/"><img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" alt="Linkedin" width="40" height="50"/></a>
 </p>
